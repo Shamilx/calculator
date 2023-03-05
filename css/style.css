@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.calculator {
+    border: 1px solid black;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    display: grid;
+    border-radius: 2rem;
+
+    grid-template-columns: 4rem repeat(3, 6rem);
+    grid-template-rows: 8rem repeat(4, 6rem);
+    gap: 0.4rem;
+    padding: 1rem;
+    background-color: black;
+    grid-template-areas:
+        "input input input input"
+        "plus one two three"
+        "minus four five six"
+        "multi seven eight nine"
+        "divide clr zero equal";
+}
+
+#calculator-input {
+    border-radius: 1rem;
+    background-color: white;
+    grid-area: input;
+    border: 1px solid black;
+}
+
+#calculator-input p {
+    max-lines: 1;
+    text-align: right;
+    font-size: 4rem;
+    margin-top: 2rem;
+}
+
+.buttons {
+    border-radius: 10px;
+    font-size: 2rem;
+    background-color: black;
+    border: 1px solid white;
+    color: white;
+    transition: all .2s ease-in-out;
+    cursor: pointer;
+}
+
+.buttons:hover {
+    background-color: white;
+    color: black;
+}
