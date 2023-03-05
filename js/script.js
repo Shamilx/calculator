@@ -55,6 +55,7 @@ wrapper.addEventListener('click', (event) => {
         problem += calculatorInput.textContent;
 
         var answer = Solve(problem);
+        problem = "";
         calculatorInput.textContent = answer;
         return;
     }
