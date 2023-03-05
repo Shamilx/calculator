@@ -17,8 +17,9 @@ function Solve(problem) {
 
     // Check if there is + - / * in the end of string
 
-    console.log(problem);
-    return problem;
+
+
+    return Function(`'use strict'; return (${problem})`)();
 }
 
 wrapper.addEventListener('click', (event) => {
@@ -55,7 +56,6 @@ wrapper.addEventListener('click', (event) => {
 
         var answer = Solve(problem);
         calculatorInput.textContent = answer;
-        problem = answer;
         return;
     }
 
