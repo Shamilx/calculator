@@ -5,7 +5,7 @@ The main objective of this project is to track skills that I have learned in the
 
 <a href="//shamilx.github.io/calculatorJS">Go to Website.</a>
 
-Skills I have learnt so far:
+Skills I have learnt so far while coding this:
 <ul>
     <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures">Data Types</a></li>
     <li><a href="https://www.freecodecamp.org/news/unary-binary-ternary-operators-javascript/">Binar,Unar,Ternar Operators</a></li>
