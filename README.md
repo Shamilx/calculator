@@ -1,9 +1,7 @@
 # calculatorJS
 Simple Calculator App in Web
 
-Main purpose of this project is to track skills I have learnt in Javascript programming field.
-I am using "Eloquent Javascript A Modern Introduction to Programming" book
-by Marijn Haverbeke.
+The main objective of this project is to track skills that I have learned in the Javascript programming field. I am using the "Eloquent Javascript A Modern Introduction to Programming" book by Marijn Haverbeke.
 
 <a href="//shamilx.github.io/calculatorJS">Go to Website.</a>
 
