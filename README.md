@@ -7,5 +7,5 @@ The main objective of this project is to track skills that I have learned in the
 
 Skills I have learnt so far:
 <ul>
-    <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures">Javascript Data Types</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures">Data Types</a></li>
 </ul>
