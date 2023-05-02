@@ -3,7 +3,7 @@ Simple Calculator App in Web
 
 The main objective of this project is to track skills that I have learned in the Javascript programming field. I am using the "Eloquent Javascript A Modern Introduction to Programming" book by Marijn Haverbeke.
 
-<a href="//shamilx.github.io/calculatorJS">Go to Website.</a>
+<a href="//shamilx.github.io/calculator">Go to Website.</a>
 
 Skills I have learnt so far while coding this:
 <ul>
